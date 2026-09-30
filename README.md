@@ -1,8 +1,6 @@
 # Exercise 1 - Where Was This Taken?
 
-Reverse image search and geolocation exercise (groups of 3-4)
-
-Seven photographs, all taken in Myanmar. Every one of them is connected to scam compounds, the smuggling of people across borders, or the trafficking of workers into compounds.
+Reverse image search and geolocation exercise (work in groups)
 
 ## Your task
 
@@ -11,7 +9,6 @@ For each image, find out:
 1. **Where was it taken?** Give the place name and coordinates in decimal degrees (for example 16.6900, 98.5150). Be as precise as you can: the compound, gate, bridge or crossing, not just the township.
 2. **How did you get there?** Reverse image search, a caption you found, a visual clue, satellite view. Write down the method.
 3. **How confident are you?** High, moderate or low.
-4. **Bonus:** what is the relevance of this place to recruitment into scam compounds?
 
 Write everything in section 1 of your group worksheet. Split the images between the members of your group.
 
@@ -24,7 +21,6 @@ Write everything in section 1 of your group worksheet. Split the images between 
 
 ## Rules
 
-- VPN on, research accounts only.
 - Do not upload the images to AI chatbots from a work account.
 - Ask a facilitator if you get stuck.
 
